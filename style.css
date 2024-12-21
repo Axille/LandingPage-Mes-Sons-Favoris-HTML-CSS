@@ -7,7 +7,7 @@
 
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: DejaVu Sans Mono, monospace;
     margin: 0;
     padding: 0;
     background-color: #f9f9f9;
@@ -26,6 +26,7 @@ header nav {
     background-color: #003366; 
     color: #fff;
     padding: 16px 32px;
+    font-weight: bold;
 }
 
 .logo {
@@ -89,6 +90,7 @@ header nav {
     padding: 24px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
     transition: transform 0.3s ease;
 }
 
